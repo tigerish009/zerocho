@@ -69,3 +69,5 @@ setTimeout(function 비동기콜백함수() {
     let 칸 = document.querySelector('.보너스');
     공색칠하기(보너스, 칸);
 }, 3500);
+
+//github test
